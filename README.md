@@ -13,7 +13,7 @@ Ridge CV, PLS Regression and Multi-layer Perceptron). Hiper-parameters must be d
 the lines 54 and 63 substituting the path there written by the one where the database files are stored in your computer.
 
 Once the algorithm is trained, a PGM file with 384 columns, 286 rows and 256 gray levels can be opened and loaded at the right part of the screen.
-This image is the test set of the algorithm. The script to test can be executed by clicking in the Buton "Test Eye Position". The coordinates 
+This image is the test set of the algorithm. The script to test can be executed by clicking in the button "Test Eye Position". The coordinates 
 of the eyes calculated by the algorithm will be printed in the output console and light green crosses will be printed on the images in the positions 
 calculated.
 
@@ -22,3 +22,6 @@ and this image can be photographed to put it in the boton picture of the screen 
 
 Of course, the algorithm can be changed. In this case it is not necessary to execute all the python script again, only those sentences where the 
 algorithm selected is trained (you can delete the first sentences of the script where the files of the database are loaded).
+
+
+![BioIdFaceApp](https://user-images.githubusercontent.com/37451727/144942643-78b1cb0c-dac1-4c20-932f-a5a88da14962.png)
